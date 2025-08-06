@@ -1,0 +1,14 @@
+C:\Users\ssewa\source\repos\sewartesting\sewartesting\bin\Debug\sewartesting.exe.config
+C:\Users\ssewa\source\repos\sewartesting\sewartesting\bin\Debug\sewartesting.exe
+C:\Users\ssewa\source\repos\sewartesting\sewartesting\bin\Debug\sewartesting.pdb
+C:\Users\ssewa\source\repos\sewartesting\sewartesting\obj\Debug\sewartesting.csproj.AssemblyReference.cache
+C:\Users\ssewa\source\repos\sewartesting\sewartesting\obj\Debug\sewartesting.Form1.resources
+C:\Users\ssewa\source\repos\sewartesting\sewartesting\obj\Debug\sewartesting.Properties.Resources.resources
+C:\Users\ssewa\source\repos\sewartesting\sewartesting\obj\Debug\sewartesting.signupasstudent.resources
+C:\Users\ssewa\source\repos\sewartesting\sewartesting\obj\Debug\sewartesting.csproj.GenerateResource.cache
+C:\Users\ssewa\source\repos\sewartesting\sewartesting\obj\Debug\sewartesting.csproj.CoreCompileInputs.cache
+C:\Users\ssewa\source\repos\sewartesting\sewartesting\obj\Debug\sewartesting.exe
+C:\Users\ssewa\source\repos\sewartesting\sewartesting\obj\Debug\sewartesting.pdb
+C:\Users\ssewa\source\repos\sewartesting\sewartesting\obj\Debug\sewartesting.signupasleacture.resources
+C:\Users\ssewa\source\repos\sewartesting\sewartesting\obj\Debug\sewartesting.loginstudent.resources
+C:\Users\ssewa\source\repos\sewartesting\sewartesting\obj\Debug\sewartesting.loginleacture.resources
